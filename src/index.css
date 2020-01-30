@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'VodafoneRegular';
+  src: local('VodafoneRegular'), url(./assets/fonts/VodafoneRg-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Soin Sans Neue';
+  src: local('Soin Sans Neue'), url("./assets/fonts/Stawix - SoinSansNeue-Medium.otf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Century Gothic';
+  src: local('Century Gothic'), url("./assets/fonts/century-gothic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Touche Semibold";
+  src: url("./assets/fonts/Touche W03 Semibold.ttf") format("truetype");
+}
